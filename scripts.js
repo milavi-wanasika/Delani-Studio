@@ -1,4 +1,4 @@
-$(document)ready(function() {
+$(document).ready(function() {
     $(".show1").click(function() {
        $("#hide1").toggle();
        $(".img-hidden1").toggle()
